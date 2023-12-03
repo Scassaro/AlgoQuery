@@ -46,6 +46,7 @@ for i in range(1, int(pageIterations)//10):
             print(row.text)
             createCount+=1
         # print(row.text)
+        rows = driver.find_elements(By.CSS_SELECTOR, "tr[class^='row']")
     pageIterations = driver.find_element_by_css_selector("[data-cy='next']").click
 
 
