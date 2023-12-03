@@ -7,12 +7,14 @@ from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.common.by import By
 from selenium.webdriver.firefox.options import Options as FirefoxOptions
+from selenium.webdriver.common.action_chains import ActionChains
 
 options = FirefoxOptions()
 options.add_argument("--headless=new")
 
 url = "https://algoexplorer.io/"
 driver = webdriver.Firefox(options=options)
+actions = ActionChains(driver)
 driver.get(url)
 driver.find_element_by_css_selector("[data-cy='latestBlocksLink']").click()
 driver.implicitly_wait(50)
@@ -33,9 +35,9 @@ rows = driver.find_elements(By.CSS_SELECTOR, "tr[class^='row']")
 optinCount = 0
 transferCount = 0
 createCount = 0
-pageIterations = driver.find_element_by_css_selector("[data-cy='TotalTransactions']").text
-print('iterations ' + str(int(pageIterations)//10))
-for i in range(1, int(pageIterations)//10):
+pageIterations = driver.find_element_by_css_selector("[data-cy='pagination']").text
+# print('iterations ' + str(int(pageIterations)))
+for i in range(1, int(pageIterations.split(' ')[1])):
     for row in rows:
         if(row.text.find('Opt-In') > 0):
             optinCount+=1
@@ -47,7 +49,11 @@ for i in range(1, int(pageIterations)//10):
             createCount+=1
         # print(row.text)
         rows = driver.find_elements(By.CSS_SELECTOR, "tr[class^='row']")
-    pageIterations = driver.find_element_by_css_selector("[data-cy='next']").click
+    nextpageelement = driver.find_element_by_css_selector("button[data-cy='next']")
+    driver.execute_script("arguments[0].scrollIntoView();",driver.find_element_by_css_selector("button[data-cy='next']"))
+    driver.find_element_by_css_selector("button[data-cy='next']").send_keys(Keys.RETURN)
+    time.sleep(5)
+    print('should have clicked')
 
 
 print(optinCount)
