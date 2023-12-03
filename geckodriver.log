@@ -1,0 +1,445 @@
+1701578378149	geckodriver	INFO	Listening on 127.0.0.1:63433
+1701578379028	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/78/4vtdpqv14zn_wvl55kmw9c7c0000gp/T/rust_mozprofile6eFrYZ"
+1701578424362	geckodriver	INFO	Listening on 127.0.0.1:63664
+1701578425382	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/78/4vtdpqv14zn_wvl55kmw9c7c0000gp/T/rust_mozprofilelu4z6L"
+console.error: JsonSchemaValidator.jsm: 
+  Ignoring parameter "URL_TO_ALTERNATE_PROVIDER" - scheme (http or https) must be specified.
+console.error: Enterprise Policies: 
+  Invalid parameters specified for DNSOverHTTPS.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+2023-12-02 20:40:27.092 firefox-bin[82701:2819379] WARNING: Secure coding is not enabled for restorable state! Enable secure coding by implementing NSApplicationDelegate.applicationSupportsSecureRestorableState: and returning YES.
+1701578427405	Marionette	INFO	Marionette enabled
+1701578427796	Marionette	INFO	Listening on port 63694
+Read port: 63694
+1701578428030	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://algoexplorer.io/_next/static/chunks/main-954a0e6f0af604bb.js, line 1: Script terminated by timeout at:
+38745/106/p/<@https://algoexplorer.io/_next/static/chunks/main-954a0e6f0af604bb.js:1:86357
+r@https://algoexplorer.io/_next/static/chunks/main-954a0e6f0af604bb.js:1:85860
+
+JavaScript error: resource:///modules/sessionstore/SessionStore.sys.mjs, line 3782: TypeError: this._windows[aWindow.__SSi] is undefined
+1701578458042	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1701578627074	geckodriver	INFO	Listening on 127.0.0.1:64679
+1701578628098	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... -headless=new" "-foreground" "-no-remote" "-profile" "/var/folders/78/4vtdpqv14zn_wvl55kmw9c7c0000gp/T/rust_mozprofileZUULPF"
+console.error: JsonSchemaValidator.jsm: 
+  Ignoring parameter "URL_TO_ALTERNATE_PROVIDER" - scheme (http or https) must be specified.
+console.error: Enterprise Policies: 
+  Invalid parameters specified for DNSOverHTTPS.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+2023-12-02 20:43:48.403 firefox-bin[82944:2822969] WARNING: Secure coding is not enabled for restorable state! Enable secure coding by implementing NSApplicationDelegate.applicationSupportsSecureRestorableState: and returning YES.
+1701578628593	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-headless"
+1701578628769	Marionette	INFO	Listening on port 64699
+Read port: 64699
+1701578629021	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1701578631466	Marionette	INFO	Stopped listening on port 63694
+console.error: "Failed to fetch https://spocs.getpocket.com/user:" "NetworkError when attempting to fetch resource."
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript warning: https://algoexplorer.io/_next/static/chunks/main-954a0e6f0af604bb.js, line 1: Script terminated by timeout at:
+38745/106/p/<@https://algoexplorer.io/_next/static/chunks/main-954a0e6f0af604bb.js:1:86357
+r@https://algoexplorer.io/_next/static/chunks/main-954a0e6f0af604bb.js:1:85860
+
+JavaScript error: resource:///modules/sessionstore/SessionStore.sys.mjs, line 3782: TypeError: this._windows[aWindow.__SSi] is undefined
+1701578644691	geckodriver	INFO	Listening on 127.0.0.1:64870
+1701578645712	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... -headless=new" "-foreground" "-no-remote" "-profile" "/var/folders/78/4vtdpqv14zn_wvl55kmw9c7c0000gp/T/rust_mozprofileOpnuk1"
+console.error: JsonSchemaValidator.jsm: 
+  Ignoring parameter "URL_TO_ALTERNATE_PROVIDER" - scheme (http or https) must be specified.
+console.error: Enterprise Policies: 
+  Invalid parameters specified for DNSOverHTTPS.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+2023-12-02 20:44:06.012 firefox-bin[82995:2823782] WARNING: Secure coding is not enabled for restorable state! Enable secure coding by implementing NSApplicationDelegate.applicationSupportsSecureRestorableState: and returning YES.
+1701578646200	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-headless"
+1701578646375	Marionette	INFO	Listening on port 64889
+Read port: 64889
+1701578646636	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1701578649068	Marionette	INFO	Stopped listening on port 64699
+console.error: "Failed to fetch https://spocs.getpocket.com/user:" "NetworkError when attempting to fetch resource."
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript warning: https://algoexplorer.io/_next/static/chunks/main-954a0e6f0af604bb.js, line 1: Script terminated by timeout at:
+38745/106/p/<@https://algoexplorer.io/_next/static/chunks/main-954a0e6f0af604bb.js:1:86357
+r@https://algoexplorer.io/_next/static/chunks/main-954a0e6f0af604bb.js:1:85860
+
+JavaScript error: resource:///modules/sessionstore/SessionStore.sys.mjs, line 3782: TypeError: this._windows[aWindow.__SSi] is undefined
+1701578676255	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1701578728642	geckodriver	INFO	Listening on 127.0.0.1:65388
+1701578729672	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... -headless=new" "-foreground" "-no-remote" "-profile" "/var/folders/78/4vtdpqv14zn_wvl55kmw9c7c0000gp/T/rust_mozprofileQCf9vG"
+console.error: JsonSchemaValidator.jsm: 
+  Ignoring parameter "URL_TO_ALTERNATE_PROVIDER" - scheme (http or https) must be specified.
+console.error: Enterprise Policies: 
+  Invalid parameters specified for DNSOverHTTPS.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+2023-12-02 20:45:29.975 firefox-bin[83123:2825785] WARNING: Secure coding is not enabled for restorable state! Enable secure coding by implementing NSApplicationDelegate.applicationSupportsSecureRestorableState: and returning YES.
+1701578730148	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-headless"
+1701578730307	Marionette	INFO	Listening on port 65406
+Read port: 65406
+1701578730544	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1701578732188	Marionette	INFO	Stopped listening on port 64889
+console.error: "Failed to fetch https://spocs.getpocket.com/user:" "NetworkError when attempting to fetch resource."
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: resource:///modules/sessionstore/SessionStore.sys.mjs, line 3782: TypeError: this._windows[aWindow.__SSi] is undefined
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=G-EW1K1FXJ2B, line 154: Script terminated by timeout at:
+l@https://www.googletagmanager.com/gtag/js?id=G-EW1K1FXJ2B:154:17
+mA@https://www.googletagmanager.com/gtag/js?id=G-EW1K1FXJ2B:480:134
+nA/<@https://www.googletagmanager.com/gtag/js?id=G-EW1K1FXJ2B:480:111
+
+1701578760220	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1701578775257	geckodriver	INFO	Listening on 127.0.0.1:49343
+1701578776277	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... -headless=new" "-foreground" "-no-remote" "-profile" "/var/folders/78/4vtdpqv14zn_wvl55kmw9c7c0000gp/T/rust_mozprofileJ2SS28"
+console.error: JsonSchemaValidator.jsm: 
+  Ignoring parameter "URL_TO_ALTERNATE_PROVIDER" - scheme (http or https) must be specified.
+console.error: Enterprise Policies: 
+  Invalid parameters specified for DNSOverHTTPS.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+2023-12-02 20:46:16.578 firefox-bin[83195:2827067] WARNING: Secure coding is not enabled for restorable state! Enable secure coding by implementing NSApplicationDelegate.applicationSupportsSecureRestorableState: and returning YES.
+1701578776766	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-headless"
+1701578776946	Marionette	INFO	Listening on port 49367
+Read port: 49367
+1701578777141	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1701578778931	Marionette	INFO	Stopped listening on port 65406
+console.error: "Failed to fetch https://spocs.getpocket.com/user:" "NetworkError when attempting to fetch resource."
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: resource:///modules/sessionstore/SessionStore.sys.mjs, line 3782: TypeError: this._windows[aWindow.__SSi] is undefined
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=G-EW1K1FXJ2B, line 154: Script terminated by timeout at:
+l@https://www.googletagmanager.com/gtag/js?id=G-EW1K1FXJ2B:154:17
+mA@https://www.googletagmanager.com/gtag/js?id=G-EW1K1FXJ2B:480:134
+nA/<@https://www.googletagmanager.com/gtag/js?id=G-EW1K1FXJ2B:480:111
+
+1701578794760	geckodriver	INFO	Listening on 127.0.0.1:49548
+1701578795782	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... -headless=new" "-foreground" "-no-remote" "-profile" "/var/folders/78/4vtdpqv14zn_wvl55kmw9c7c0000gp/T/rust_mozprofileHysWzQ"
+console.error: JsonSchemaValidator.jsm: 
+  Ignoring parameter "URL_TO_ALTERNATE_PROVIDER" - scheme (http or https) must be specified.
+console.error: Enterprise Policies: 
+  Invalid parameters specified for DNSOverHTTPS.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+2023-12-02 20:46:36.085 firefox-bin[83253:2827899] WARNING: Secure coding is not enabled for restorable state! Enable secure coding by implementing NSApplicationDelegate.applicationSupportsSecureRestorableState: and returning YES.
+1701578796254	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-headless"
+1701578796532	Marionette	INFO	Listening on port 49569
+Read port: 49569
+1701578796756	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1701578798227	Marionette	INFO	Stopped listening on port 49367
+console.error: "Failed to fetch https://spocs.getpocket.com/user:" "NetworkError when attempting to fetch resource."
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript warning: https://algoexplorer.io/_next/static/chunks/pages/_app-59ccff65eaff16f6.js, line 1: Script terminated by timeout at:
+a@https://algoexplorer.io/_next/static/chunks/pages/_app-59ccff65eaff16f6.js:1:867303
+promise callback*n@https://algoexplorer.io/_next/static/chunks/pages/_app-59ccff65eaff16f6.js:1:867171
+a@https://algoexplorer.io/_next/static/chunks/pages/_app-59ccff65eaff16f6.js:1:867304
+promise callback*n@https://algoexplorer.io/_next/static/chunks/pages/_app-59ccff65eaff16f6.js:1:867171
+a@https://algoexplorer.io/_next/static/chunks/pages/_app-59ccff65eaff16f6.js:1:867304
+promise callback*n@https://algoexplorer.io/_next/static/chunks/pages/_app-59ccff65eaff16f6.js:1:867171
+a@https://algoexplorer.io/_next/static/chunks/pages/_app-59ccff65eaff16f6.js:1:867304
+promise callback*n@https://algoexplorer.io/_next/static/chunks/pages/_app-59ccff65eaff16f6.js:1:867171
+a@https://algoexplorer.io/_next/static/chunks/pages/_app-59ccff65eaff16f6.js:1:867304
+promise callback*n@https://algoexplorer.io/_next/static/chunks/pages/_app-59ccff65eaff16f6.js:1:867171
+a@https://algoexplorer.io/_next/static/chunks/pages/_app-59ccff65eaff16f6.js:1:867304
+promise callback*n@https://algoexplorer.io/_next/static/chunks/pages/_app-59ccff65eaff16f6.js:1:867171
+a@https://algoexplorer.io/_next/static/chunks/pages/_app-59ccff65eaff16f6.js:1:867304
+promise callback*n@https://algoexplorer.io/_next/static/chunks/pages/_app-59ccff65eaff16f6.js:1:867171
+a@https://algoexplorer.io/_next/static/chunks/pages/_app-59ccff65eaff16f6.js:1:867304
+promise callback*n@https://algoexplorer.io/_next/static/chunks/pages/_app-59ccff65eaff16f6.js:1:867171
+a@https://algoexplorer.io/_next/static/chunks/pages/_app-59ccff65eaff16f6.js:1:867304
+promise callback*n@https://algoexplorer.io/_next/static/chunks/pages/_app-59ccff65eaff16f6.js:1:867171
+a@https://algoexplorer.io/_next/static/chunks/pages/_app-59ccff65eaff16f6.js:1:867304
+promise callback*n@https://algoexplorer.io/_next/static/chunks/pages/_app-59ccff65eaff16f6.js:1:867171
+a@https://algoexplorer.io/_next/static/chunks/pages/_app-59ccff65eaff16f6.js:1:867304
+promise callback*n@https://algoexplorer.io/_next/static/chunks/pages/_app-59ccff65eaff16f6.js:1:867171
+a@https://algoexplorer.io/_next/static/chunks/pages/_app-59ccff65eaff16f6.js:1:867304
+promise callback*n@https://algoexplorer.io/_next/static/chunks/pages/_app-59ccff65eaff16f6.js:1:867171
+a@https://algoexplorer.io/_next/static/chunks/pages/_app-59ccff65eaff16f6.js:1:867304
+promise callback*n@https://algoexplorer.io/_next/static/chunks/pages/_app-59ccff65eaff16f6.js:1:867171
+a@https://algoexplorer.io/_next/static/chunks/pages/_app-59ccff65eaff16f6.js:1:867304
+promise callback*n@https://algoexplorer.io/_next/static/chunks/pages/_app-59ccff65eaff16f6.js:1:867171
+a@https://algoexplorer.io/_next/static/chunks/pages/_app-59ccff65eaff16f6.js:1:867304
+promise callback*n@https://algoexplorer.io/_next/static/chunks/pages/_app-59ccff65eaff16f6.js:1:867171
+a@https://algoexplorer.io/_next/static/chunks/pages/_app-59ccff65eaff16f6.js:1:867304
+promise callback*n@https://algoexplorer.io/_next/static/chunks/pages/_app-59ccff65eaff16f6.js:1:867171
+a@https://algoexplorer.io/_next/static/chunks/pages/_app-59ccff65eaff16f6.js:1:867304
+promise callback*n@https://algoexplorer.io/_next/static/chunks/pages/_app-59ccff65eaff16f6.js:1:867171
+a@https://algoexplorer.io/_next/static/chunks/pages/_app-59ccff65eaff16f6.js:1:867304
+promise callback*n@https://algoexplorer.io/_next/static/chunks/pages/_app-59ccff65eaff16f6.js:1:867171
+a@https://algoexplorer.io/_next/static/chunks/pages/_app-59ccff65eaff16f6.js:1:867304
+promise callback*n@https://algoexplorer.io/_next/static/chunks/pages/_app-59ccff65eaff16f6.js:1:867171
+a@https://algoexplorer.io/_next/static/chunks/pages/_app-59ccff65eaff16f6.js:1:867304
+promise callback*n@https://algoexplorer.io/_next/static/chunks/pages/_app-59ccff65eaff16f6.js:1:867171
+a@https://algoexplorer.io/_next/static/chunks/pages/_app-59ccff65eaff16f6.js:1:867304
+
+1701578821021	Marionette	INFO	Stopped listening on port 49569
+console.warn: "Inspector destroyed while executing onReflow callback"
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1701578821825	geckodriver	INFO	Listening on 127.0.0.1:49792
+1701578821839	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... -headless=new" "-foreground" "-no-remote" "-profile" "/var/folders/78/4vtdpqv14zn_wvl55kmw9c7c0000gp/T/rust_mozprofileEuO6JF"
+console.error: JsonSchemaValidator.jsm: 
+  Ignoring parameter "URL_TO_ALTERNATE_PROVIDER" - scheme (http or https) must be specified.
+console.error: Enterprise Policies: 
+  Invalid parameters specified for DNSOverHTTPS.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+2023-12-02 20:47:02.138 firefox-bin[83303:2828955] WARNING: Secure coding is not enabled for restorable state! Enable secure coding by implementing NSApplicationDelegate.applicationSupportsSecureRestorableState: and returning YES.
+1701578822215	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-headless"
+1701578822562	Marionette	INFO	Listening on port 49805
+Read port: 49805
+1701578822610	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1701578824711	Marionette	INFO	Stopped listening on port 49805
+1701578841696	geckodriver	INFO	Listening on 127.0.0.1:49984
+1701578842715	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... -headless=new" "-foreground" "-no-remote" "-profile" "/var/folders/78/4vtdpqv14zn_wvl55kmw9c7c0000gp/T/rust_mozprofiley501Er"
+console.error: JsonSchemaValidator.jsm: 
+  Ignoring parameter "URL_TO_ALTERNATE_PROVIDER" - scheme (http or https) must be specified.
+console.error: Enterprise Policies: 
+  Invalid parameters specified for DNSOverHTTPS.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+2023-12-02 20:47:23.012 firefox-bin[83368:2829737] WARNING: Secure coding is not enabled for restorable state! Enable secure coding by implementing NSApplicationDelegate.applicationSupportsSecureRestorableState: and returning YES.
+1701578843193	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-headless"
+1701578843352	Marionette	INFO	Listening on port 50003
+Read port: 50003
+1701578843543	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource:///modules/sessionstore/SessionStore.sys.mjs, line 3782: TypeError: this._windows[aWindow.__SSi] is undefined
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=G-EW1K1FXJ2B, line 381: Script terminated by timeout at:
+jp@https://www.googletagmanager.com/gtag/js?id=G-EW1K1FXJ2B:381:741
+fq@https://www.googletagmanager.com/gtag/js?id=G-EW1K1FXJ2B:384:766
+lG/<@https://www.googletagmanager.com/gtag/js?id=G-EW1K1FXJ2B:596:178
+aa.Jk/<@https://www.googletagmanager.com/gtag/js?id=G-EW1K1FXJ2B:547:126
+aa.Jk/c/<@https://www.googletagmanager.com/gtag/js?id=G-EW1K1FXJ2B:546:420
+
+1701578854534	geckodriver	INFO	Listening on 127.0.0.1:50156
+1701578855555	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... -headless=new" "-foreground" "-no-remote" "-profile" "/var/folders/78/4vtdpqv14zn_wvl55kmw9c7c0000gp/T/rust_mozprofile4hnzZX"
+console.error: JsonSchemaValidator.jsm: 
+  Ignoring parameter "URL_TO_ALTERNATE_PROVIDER" - scheme (http or https) must be specified.
+console.error: Enterprise Policies: 
+  Invalid parameters specified for DNSOverHTTPS.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+2023-12-02 20:47:35.870 firefox-bin[83403:2830390] WARNING: Secure coding is not enabled for restorable state! Enable secure coding by implementing NSApplicationDelegate.applicationSupportsSecureRestorableState: and returning YES.
+1701578856037	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-headless"
+1701578856315	Marionette	INFO	Listening on port 50175
+Read port: 50175
+1701578856524	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://algoexplorer.io/_next/static/chunks/main-954a0e6f0af604bb.js, line 1: Script terminated by timeout at:
+38745/106/p/<@https://algoexplorer.io/_next/static/chunks/main-954a0e6f0af604bb.js:1:86357
+r@https://algoexplorer.io/_next/static/chunks/main-954a0e6f0af604bb.js:1:85860
+
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+1701578874625	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+1701578886096	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+1701578959354	Marionette	INFO	Stopped listening on port 50003
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+1701578962180	Marionette	INFO	Stopped listening on port 50175
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1701579028493	geckodriver	INFO	Listening on 127.0.0.1:51060
+1701579029524	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... -headless=new" "-foreground" "-no-remote" "-profile" "/var/folders/78/4vtdpqv14zn_wvl55kmw9c7c0000gp/T/rust_mozprofile6eUuhd"
+console.error: JsonSchemaValidator.jsm: 
+  Ignoring parameter "URL_TO_ALTERNATE_PROVIDER" - scheme (http or https) must be specified.
+console.error: Enterprise Policies: 
+  Invalid parameters specified for DNSOverHTTPS.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+2023-12-02 20:50:29.847 firefox-bin[83632:2833791] WARNING: Secure coding is not enabled for restorable state! Enable secure coding by implementing NSApplicationDelegate.applicationSupportsSecureRestorableState: and returning YES.
+1701579030027	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-headless"
+1701579030182	Marionette	INFO	Listening on port 51080
+Read port: 51080
+1701579030411	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+1701579048447	geckodriver	INFO	Listening on 127.0.0.1:51264
+1701579049466	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... -headless=new" "-foreground" "-no-remote" "-profile" "/var/folders/78/4vtdpqv14zn_wvl55kmw9c7c0000gp/T/rust_mozprofilezT1Cd2"
+console.error: JsonSchemaValidator.jsm: 
+  Ignoring parameter "URL_TO_ALTERNATE_PROVIDER" - scheme (http or https) must be specified.
+console.error: Enterprise Policies: 
+  Invalid parameters specified for DNSOverHTTPS.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+2023-12-02 20:50:49.770 firefox-bin[83682:2834554] WARNING: Secure coding is not enabled for restorable state! Enable secure coding by implementing NSApplicationDelegate.applicationSupportsSecureRestorableState: and returning YES.
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+1701579049951	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-headless"
+1701579050115	Marionette	INFO	Listening on port 51285
+Read port: 51285
+1701579050354	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+1701579052509	Marionette	INFO	Stopped listening on port 51285
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript warning: https://algoexplorer.io/_next/static/chunks/9539.c502edcce2203612.js, line 1: Script terminated by timeout at:
+a@https://algoexplorer.io/_next/static/chunks/9539.c502edcce2203612.js:1:215823
+
+1701579053469	Marionette	INFO	Stopped listening on port 51080
+1701579225869	geckodriver	INFO	Listening on 127.0.0.1:52127
+1701579226881	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... -headless=new" "-foreground" "-no-remote" "-profile" "/var/folders/78/4vtdpqv14zn_wvl55kmw9c7c0000gp/T/rust_mozprofilePfq8FI"
+console.error: JsonSchemaValidator.jsm: 
+  Ignoring parameter "URL_TO_ALTERNATE_PROVIDER" - scheme (http or https) must be specified.
+console.error: Enterprise Policies: 
+  Invalid parameters specified for DNSOverHTTPS.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+2023-12-02 20:53:47.190 firefox-bin[83892:2837780] WARNING: Secure coding is not enabled for restorable state! Enable secure coding by implementing NSApplicationDelegate.applicationSupportsSecureRestorableState: and returning YES.
+1701579227367	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-headless"
+1701579227526	Marionette	INFO	Listening on port 52148
+Read port: 52148
+1701579227759	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1701579229977	Marionette	INFO	Stopped listening on port 52148
+1701579241163	geckodriver	INFO	Listening on 127.0.0.1:52297
+1701579242185	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... -headless=new" "-foreground" "-no-remote" "-profile" "/var/folders/78/4vtdpqv14zn_wvl55kmw9c7c0000gp/T/rust_mozprofilee2vFDW"
+console.error: JsonSchemaValidator.jsm: 
+  Ignoring parameter "URL_TO_ALTERNATE_PROVIDER" - scheme (http or https) must be specified.
+console.error: Enterprise Policies: 
+  Invalid parameters specified for DNSOverHTTPS.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+2023-12-02 20:54:02.488 firefox-bin[83951:2838583] WARNING: Secure coding is not enabled for restorable state! Enable secure coding by implementing NSApplicationDelegate.applicationSupportsSecureRestorableState: and returning YES.
+1701579242672	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-headless"
+1701579242841	Marionette	INFO	Listening on port 52318
+Read port: 52318
+1701579243072	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1701579245165	Marionette	INFO	Stopped listening on port 52318
+1701579252797	geckodriver	INFO	Listening on 127.0.0.1:52454
+1701579253820	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... -headless=new" "-foreground" "-no-remote" "-profile" "/var/folders/78/4vtdpqv14zn_wvl55kmw9c7c0000gp/T/rust_mozprofile7VsIvP"
+console.error: JsonSchemaValidator.jsm: 
+  Ignoring parameter "URL_TO_ALTERNATE_PROVIDER" - scheme (http or https) must be specified.
+console.error: Enterprise Policies: 
+  Invalid parameters specified for DNSOverHTTPS.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+2023-12-02 20:54:14.134 firefox-bin[83988:2839253] WARNING: Secure coding is not enabled for restorable state! Enable secure coding by implementing NSApplicationDelegate.applicationSupportsSecureRestorableState: and returning YES.
+1701579254317	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-headless"
+1701579254581	Marionette	INFO	Listening on port 52475
+Read port: 52475
+1701579254777	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1701579256785	Marionette	INFO	Stopped listening on port 52475
+1701579279315	geckodriver	INFO	Listening on 127.0.0.1:52671
+1701579280337	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... -headless=new" "-foreground" "-no-remote" "-profile" "/var/folders/78/4vtdpqv14zn_wvl55kmw9c7c0000gp/T/rust_mozprofileOk9jdR"
+console.error: JsonSchemaValidator.jsm: 
+  Ignoring parameter "URL_TO_ALTERNATE_PROVIDER" - scheme (http or https) must be specified.
+console.error: Enterprise Policies: 
+  Invalid parameters specified for DNSOverHTTPS.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+2023-12-02 20:54:40.638 firefox-bin[84044:2840093] WARNING: Secure coding is not enabled for restorable state! Enable secure coding by implementing NSApplicationDelegate.applicationSupportsSecureRestorableState: and returning YES.
+1701579280815	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-headless"
+1701579280974	Marionette	INFO	Listening on port 52692
+Read port: 52692
+1701579281159	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource:///modules/sessionstore/SessionStore.sys.mjs, line 3782: TypeError: this._windows[aWindow.__SSi] is undefined
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=G-EW1K1FXJ2B, line 154: Script terminated by timeout at:
+l@https://www.googletagmanager.com/gtag/js?id=G-EW1K1FXJ2B:154:17
+mA@https://www.googletagmanager.com/gtag/js?id=G-EW1K1FXJ2B:480:134
+nA/<@https://www.googletagmanager.com/gtag/js?id=G-EW1K1FXJ2B:480:111
+
+1701579310964	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1701579333195	geckodriver	INFO	Listening on 127.0.0.1:53019
+1701579334212	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... -headless=new" "-foreground" "-no-remote" "-profile" "/var/folders/78/4vtdpqv14zn_wvl55kmw9c7c0000gp/T/rust_mozprofileOJZAq8"
+console.error: JsonSchemaValidator.jsm: 
+  Ignoring parameter "URL_TO_ALTERNATE_PROVIDER" - scheme (http or https) must be specified.
+console.error: Enterprise Policies: 
+  Invalid parameters specified for DNSOverHTTPS.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+2023-12-02 20:55:34.506 firefox-bin[84122:2841424] WARNING: Secure coding is not enabled for restorable state! Enable secure coding by implementing NSApplicationDelegate.applicationSupportsSecureRestorableState: and returning YES.
+1701579334685	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-headless"
+1701579334841	Marionette	INFO	Listening on port 53040
+Read port: 53040
+1701579335070	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1701579337757	Marionette	INFO	Stopped listening on port 52692
+console.error: "Failed to fetch https://spocs.getpocket.com/user:" "NetworkError when attempting to fetch resource."
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: resource:///modules/sessionstore/SessionStore.sys.mjs, line 3782: TypeError: this._windows[aWindow.__SSi] is undefined
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=G-EW1K1FXJ2B, line 154: Script terminated by timeout at:
+l@https://www.googletagmanager.com/gtag/js?id=G-EW1K1FXJ2B:154:17
+mA@https://www.googletagmanager.com/gtag/js?id=G-EW1K1FXJ2B:480:134
+nA/<@https://www.googletagmanager.com/gtag/js?id=G-EW1K1FXJ2B:480:111
+
+1701579364723	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1701579372352	geckodriver	INFO	Listening on 127.0.0.1:53303
+1701579373377	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... -headless=new" "-foreground" "-no-remote" "-profile" "/var/folders/78/4vtdpqv14zn_wvl55kmw9c7c0000gp/T/rust_mozprofileXJICj6"
+console.error: JsonSchemaValidator.jsm: 
+  Ignoring parameter "URL_TO_ALTERNATE_PROVIDER" - scheme (http or https) must be specified.
+console.error: Enterprise Policies: 
+  Invalid parameters specified for DNSOverHTTPS.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+2023-12-02 20:56:13.672 firefox-bin[84189:2842485] WARNING: Secure coding is not enabled for restorable state! Enable secure coding by implementing NSApplicationDelegate.applicationSupportsSecureRestorableState: and returning YES.
+1701579373855	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-headless"
+1701579374015	Marionette	INFO	Listening on port 53322
+Read port: 53322
+1701579374249	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1701579376128	Marionette	INFO	Stopped listening on port 53040
+console.error: "Failed to fetch https://spocs.getpocket.com/user:" "NetworkError when attempting to fetch resource."
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1701579376661	Marionette	INFO	Stopped listening on port 53322
+1701579382085	geckodriver	INFO	Listening on 127.0.0.1:53457
+1701579383103	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... -headless=new" "-foreground" "-no-remote" "-profile" "/var/folders/78/4vtdpqv14zn_wvl55kmw9c7c0000gp/T/rust_mozprofilebtn9wy"
+console.error: JsonSchemaValidator.jsm: 
+  Ignoring parameter "URL_TO_ALTERNATE_PROVIDER" - scheme (http or https) must be specified.
+console.error: Enterprise Policies: 
+  Invalid parameters specified for DNSOverHTTPS.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+2023-12-02 20:56:23.406 firefox-bin[84229:2843149] WARNING: Secure coding is not enabled for restorable state! Enable secure coding by implementing NSApplicationDelegate.applicationSupportsSecureRestorableState: and returning YES.
+1701579383581	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-headless"
+1701579383739	Marionette	INFO	Listening on port 53472
+Read port: 53472
+1701579383977	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1701579386238	Marionette	INFO	Stopped listening on port 53472
